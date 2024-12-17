@@ -1,0 +1,38 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+
+# Django-specific
+db.sqlite3
+*.log
+*.pot
+
+# Secrets and configuration
+.env
+*.key
+
+# Static and media files (if applicable)
+staticfiles/
+media/
+
+# IDE-specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Large files or models
+*.keras
+*.h5
+*.pth
+
+# Ignore sensitive settings and environment files
+settings.py
+.env
