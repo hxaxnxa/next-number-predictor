@@ -1,0 +1,162 @@
+Model loaded successfully
+Pre-validation sequence: ['1', '2', '3', '4', '5']
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Pre-validation sequence: ['1', '2', '3', '4', '5']
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Pre-validation sequence: ['1', '2', '3', '4', '5', '']
+Validation failed: Invalid value in sequence: 
+Pre-validation sequence: ['1', '2', '3', '4', '5']
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Pre-validation sequence: ['2', '4', '6', '8']
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Model loaded successfully
+Pre-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Error in prediction: 'ImprovedSequencePredictor' object has no attribute 'detect_pattern'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001254B6CB950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001C292346060>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001A32F63B950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Pre-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Error in prediction: 'ImprovedSequencePredictor' object has no attribute 'detect_pattern'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001C2A2216060>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000019E6932B950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: 'ImprovedSequencePredictor' object has no attribute 'detect_pattern'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000002B98B6CB950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: 'ImprovedSequencePredictor' object has no attribute 'detect_pattern'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000002C9BECFB950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Pre-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Error in prediction: 'ImprovedSequencePredictor' object has no attribute 'detect_pattern'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000024FBC8DB950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000021DF835BA10>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001CDC3DFBA10>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'model', 'pattern_type', 'predict_next']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: 'ImprovedSequencePredictor' object has no attribute 'fit'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001F5BBE3B860>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor or model not properly initialized
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001F5F6D8B470>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001D759C8B980>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x00000258D73DED50>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001BE32EDB950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000018CF8D960F0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: '<' not supported between instances of 'int' and 'str'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000022FCA5060F0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: '<' not supported between instances of 'int' and 'str'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000026B29E8ED50>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x00000289D94D6D50>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: name 'pattern_type' is not defined
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000018DCFD8B950>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000019426C7ED50>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Error in prediction: '<' not supported between instances of 'int' and 'str'
+Error loading model: invalid literal for int() with base 10: 'C:\\Users\\Bhavana\\Projects\\sequence_predictor\\predictor_project\\predictor\\predictor_model.keras'
+Predictor or model not properly initialized
+Error loading model: invalid literal for int() with base 10: 'C:\\Users\\Bhavana\\Projects\\sequence_predictor\\predictor_project\\predictor\\predictor_model.keras'
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000016B9BEC6360>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [10.0, 20.0, 40.0, 60.0, 80.0]
+Post-validation sequence: [10.0, 20.0, 40.0, 60.0, 80.0]
+Detected pattern type: polynomial
+Pre-validation sequence: [1.0, 10.0, 2.0, 9.0, 3.0, 8.0]
+Post-validation sequence: [1.0, 10.0, 2.0, 9.0, 3.0, 8.0]
+Detected pattern type: complex
+Pre-validation sequence: [100.0, 80.0, 60.0]
+Post-validation sequence: [100.0, 80.0, 60.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [100.0, 80.0]
+Post-validation sequence: [100.0, 80.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [100.0]
+Post-validation sequence: [100.0]
+Detected pattern type: unknown
+Pre-validation sequence: [100.0, 50.0]
+Post-validation sequence: [100.0, 50.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [100.0, 20.0]
+Post-validation sequence: [100.0, 20.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [100.0, 20.0, 0.0]
+Post-validation sequence: [100.0, 20.0, 0.0]
+Detected pattern type: polynomial
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000021DCEEF61E0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0]
+Detected pattern type: arithmetic
+Pre-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0]
+Post-validation sequence: [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0]
+Detected pattern type: arithmetic
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000002AFE8DF60F0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Pre-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Post-validation sequence: [2.0, 4.0, 6.0, 8.0]
+Detected pattern type: arithmetic
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x00000139DB93B200>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x00000180B2CD2180>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001856A70BA70>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001D8A9B32120>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001AA9C99BA70>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x00000184E77E6390>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001EE12F16450>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001FEF57B45F0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000001EE5E1A6480>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000027B7674E4E0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor or model not properly initialized
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x0000027B320ADA90>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
+Predictor initialized: <predictor.predictor.ImprovedSequencePredictor object at 0x000002DF3DF5E7E0>
+Available methods: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'build_neural_model', 'detect_pattern', 'fit', 'is_arithmetic', 'is_fibonacci_like', 'is_geometric', 'is_polynomial', 'load_model', 'min_sequence_length', 'model', 'model_path', 'model_save_path', 'pattern_params', 'pattern_type', 'predict_arithmetic', 'predict_geometric', 'predict_next', 'predict_polynomial', 'save_model', 'scaler']
