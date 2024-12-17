@@ -36,3 +36,5 @@ Thumbs.db
 # Ignore sensitive settings and environment files
 settings.py
 .env
+
+bfg.jar
